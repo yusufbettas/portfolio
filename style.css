@@ -1,0 +1,183 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: system-ui;
+    width: 1440px;
+    height: 4098px;
+    text-align: center;
+}
+.containner{
+    margin-inline: auto;
+}
+.header-top img{
+padding-left: 1378px;
+}
+.content{
+    width: 1110px;
+    height: 2436px;
+}
+
+.one-step{
+
+    width: 1140px;
+    height: 617px;
+    /* height: 417px;
+    padding: 120px 411px 120px 155px; */
+    }
+   
+
+
+.p-one{
+    font-size: 30px;
+    letter-spacing: -0.35px;
+    font-weight: 200px;
+    padding-right: 855px;
+    padding-bottom: 12px;
+    color: #212121;
+    
+}
+.p-two{
+    font-size: 60px;
+    letter-spacing:1.3px ;
+    line-height: 70px;
+    text-align: justify;
+    color: #212121;
+    padding-bottom: 66px;
+    word-spacing: 25px;
+    font-weight: 600;
+
+}
+.social{
+   width: 208px;
+   height: 48px;
+   padding-right: 55px;
+    /* padding-bottom: 721px; */
+}
+/* hocam baya uğraştım logo aralarını açamadım
+ */
+
+ .section{
+    width: 1110px;
+    height: 2436px;
+ }
+
+ .two-step{
+    height: 193px;
+    width: 1062px;
+    padding: 24px 24px 24px 24px;
+ }
+ .no-wrap{
+    white-space: nowrap;
+    padding-bottom: 40px;
+    padding-right: 1042px;
+ }
+ .part-one{
+    padding-left: 12px;
+    padding-bottom:  24px;
+   
+ }
+ 
+
+.for-border , .for-border-two , .for-border-thre{
+     border: 1px solid #C4C4C4 ;
+     border-radius: 12px;
+     width: 1110px;
+     height: 733px;
+     padding: 24px 24px 24px 24px
+     
+     
+
+ }
+ 
+ .two-step h1 , .thre-step h1 , .four-step h1{
+    font-size: 30px;
+    line-height: 37px;
+    letter-spacing:-0.35px ;
+    color: #212121;
+    padding-right: 652px;
+    padding-bottom: 12px;
+    white-space: nowrap;
+    width: 667px;
+    height: 37px;
+ }
+ .two-step p , .thre-step p , .four-step p{
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0px;
+    width: 669px;
+    height: 56px;
+    text-align: justify;
+   
+
+ }
+ .two-step a , .thre-step a , .four-step a{
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    font-weight: 600;
+    color: #212121;
+    text-decoration: none;
+    display: block;
+    width: 134px;
+    height: 24px;
+    padding-top: 64px;
+    
+}
+
+.thre-page , .four-page{
+    padding-top: 80px;
+}
+
+.part-two , .part-thre {
+     padding-left: 12px;
+    padding-bottom:  24px;
+}
+
+.thre-step , .four-step{
+    height: 193px;
+    width: 1062px;
+    padding: 24px 24px 24px 24px;
+
+}
+
+.fife-step{
+    width: 1440px;
+    height: 650px;
+    padding-top: 122px;
+   
+}
+
+
+.mail{
+    text-decoration: none;
+   }
+
+.onee{
+font-size: 20px;
+line-height: 30px;
+letter-spacing: 0px;
+height: 30px;
+width: 134px;
+font-weight: 600;
+padding-bottom: 48px;
+text-align: left;
+
+}
+
+.twoo{
+   font-size: 40px;
+   line-height: 48px;
+   letter-spacing:-0.4px ; 
+   font-weight: 600;
+   width: 596px;
+   height: 240px;
+   text-align: left;
+   
+}
+
+.containner footer {
+    text-align: left;
+}
